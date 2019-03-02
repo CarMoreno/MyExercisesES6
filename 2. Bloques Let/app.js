@@ -1,5 +1,5 @@
 function ejemploVar() {
-	var x: number = 100;
+	var x = 100;
 	if(true) {
 		var x = 50;
 		console.log(x); // 50
